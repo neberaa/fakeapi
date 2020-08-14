@@ -1,15 +1,22 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "2hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "userData": {
+    "name": "typicode",
+    "firstName": "John",
+    "lastName": "Snow",
+    "phoneNumber": 334343222,
+    "company": "Egoditor GmbH",
+    "country": "Germany";
+    "city": "",
+    "street": "",
+    "zipCode": 000,
+    "webSite": "",
+    "email": "designcides@qrcg.com",
+    "id": "app-u-103",
+    "signUpDate": "28/11/12",
+    "accountType": "Professional",
+    "scans": 3614408,
+    "dynamicCodes": 587,
+    "staticCodes": 49,
+    "users": 1
   }
 }

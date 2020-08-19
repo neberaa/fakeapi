@@ -16,6 +16,10 @@
     "scans": "3614408",
     "dynamicCodes": "587",
     "staticCodes": "49",
-    "users": "1"
+    "users": "1",
+    "scansLimit": "Unlimited",
+    "dynamicCodesLimit": "25000",
+    "staticCodesLimit": "25000",
+    "usersLimit": "6"
   }
 }
